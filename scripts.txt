@@ -1,0 +1,3 @@
+Scaffold-DbContext "Server=(local); DataBase=BASE; Integrated Security=true;" Microsoft.EntityFramework.SqlServer -OutPutDir Models
+
+// conecctionString = "Data Source=(local); Initial Catalog=DBASE; User Id=USUARIO; PWD=PASSWORD"
